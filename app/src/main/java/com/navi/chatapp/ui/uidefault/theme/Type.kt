@@ -1,4 +1,4 @@
-package com.navi.chatapp.ui.theme
+package com.navi.chatapp.ui.uidefault.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

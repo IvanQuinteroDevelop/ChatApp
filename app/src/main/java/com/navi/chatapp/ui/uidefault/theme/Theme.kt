@@ -1,4 +1,4 @@
-package com.navi.chatapp.ui.theme
+package com.navi.chatapp.ui.uidefault.theme
 
 import android.app.Activity
 import android.os.Build
